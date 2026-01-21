@@ -4,7 +4,8 @@
 > This repository exists to compile all assignments for the Spring 2026 course ENGR322 - Engineering Design 6 for Theodore
 > Rogalski.
 
-There are 11 assignments total in this class:
+There are 11 assignments total in this class (by week # due):
+
 0. GitHub Repository
 1. Project SIte
 2. Needs Assessment
@@ -19,3 +20,15 @@ There are 11 assignments total in this class:
 11. 11.1: Design Diagrams
 12. 11.2: Gantt Chart
 13. 11.3: Senior Design Plan
+
+I will be creating a presentation on chapter 6, of the textbook, which contains a number of interesting topics including:
+- Uber
+- Occam's Razor
+- Model Enhancement
+'This class will require writing code'
+
+--- Engineering is defined by not just math but also the design process.
+
+One YouTube channel that got me into STEM is *[Asianometry](https://www.youtube.com/@Asianometry)*, a channel that combines history with technology. 
+
+
