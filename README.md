@@ -28,7 +28,8 @@ I will be creating a presentation on chapter 6, of the textbook, which contains 
 
 `std::cout << "This class will require writing code";`
 
---------- Engineering is defined by not just math but also the design process.
+---------
+Engineering is defined by not just math but also the design process.
 
 One YouTube channel that got me into STEM is *[Asianometry](https://www.youtube.com/@Asianometry)*, a channel that combines history with technology. One particularly intersting aspect of that history is that of TSMC, the world's premier semiconductor fabrication company.
 ![TSMC Foundry](https://image.cnbcfm.com/api/v1/image/107103704-1660550820436-gettyimages-1239945805-TAIWAN_TSMC.jpeg?v=1744439671&w=1480&h=833&ffmt=webp&vtcrop=y)
